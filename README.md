@@ -1,4 +1,10 @@
 # AI-Powered Stock & ETF Signal Generation Platform
+# Dashboard Project
+
+## Demo Video
+Demo video link:
+https://drive.google.com/file/d/1s6B_Euq7Uz4orjhj9efarRU1IaaKYdTd/view?usp=sharing
+
 
 > **Auto-Start Integration** - January 9, 2026
 
